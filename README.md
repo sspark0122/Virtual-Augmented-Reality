@@ -1,7 +1,7 @@
 ## Virtual-Augmented-Reality
 
-### Assignment 0: The task for the assignment 0 is to animate the TextMesh.
-#### Screen Recording: https://www.youtube.com/watch?v=LyxvkPv7lqY
+#### Assignment 0: The task for the assignment 0 is to animate the TextMesh.
+##### Screen Recording: https://www.youtube.com/watch?v=LyxvkPv7lqY
 
 ### Assignment 1
 The task for the assignment 1 is to implement a simple image tracking AR application.
