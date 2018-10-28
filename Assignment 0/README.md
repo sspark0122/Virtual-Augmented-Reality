@@ -1,23 +1,9 @@
-### INFO 5340 / CS 5650
-### Virtual and Augmented Reality 
-# Assignment 0
-
-Read: [Assignment Instructions](https://docs.google.com/document/d/1u9eCKspERhOQdH5Uw3BRDCHFSyydmr2SG5bcwxrp5YQ/edit?usp=sharing "Detailed Assignment Instructions")
-
-<hr>
-
-### Student Name:
-
-[Sungseo Park]
-
-### Student Email:
-
-[sp2528@cornell.edu]
-
-### Solution (Screen Recording):
-
-[https://youtu.be/LyxvkPv7lqY]
-
-### Work Summary:
-
-[In SceneController, I set up references for SimpleAnimator and Button, and added a listener to the Button in Start(). When the button listens to click inputs, it calls MoveTowardsOnClick() and triggers SimpleAnimator with SimpleAnimationData. After then, SimpleAnimator moves or rotates the TextMesh according to its AnimationState. In addition, I did a bonus task: The “Set New Position” button is not interactable in the middle of an active animation. The most difficult part was the use of Lerp(). If I use MoveTowards(), the TextMesh moves towards at constant speed. However, I have not found a way to maintain constant speed using Lerp().]
+Assignment Task
+The task for this assignment is to animate the TextMesh, which breaks down to the following mini tasks:
+Initialise the TextMesh with your NetID in the C# script (0 point if you implement it in the Inspector window);
+Set up the reference between the SimpleAnimator and the SceneController in the C# script (0 point if you implement it in the Inspector window);
+Let the “Set New Position” button listen to click inputs. Upon clicking on the button, the SceneController randomly generates a target position where the TextMesh will move towards (0 point if you implement it in the Inspector window);
+Rotate the TextMesh 360 degrees around its local Z axis once it arrives the target position;
+Use c_MoveTowardsSpeed as the movement speed of TextMesh and c_RotationSpeed as the rotation speed;
+[Bonus Task] The “Set New Position” button is not interactable in the middle of an active animation.
+[Bonus Task] Use StartCoroutine to animate the rotation.
