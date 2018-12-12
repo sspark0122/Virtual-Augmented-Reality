@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Little Fox
+Author: Rachael Hosein
+URL: https://poly.google.com/view/biJQtyo7j-r
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Water gun
+Author: 永田大一
+URL: https://poly.google.com/view/1W8CTzsXXRJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
