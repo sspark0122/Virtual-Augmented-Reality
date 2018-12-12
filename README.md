@@ -1,16 +1,16 @@
-## Virtual-Augmented-Reality
+## Virtual-Augmented-Reality using Unity
 
-#### Assignment 0: The task for the assignment 0 is to animate the TextMesh.
+#### The task for the assignment 0 is to animate the TextMesh.
 ##### Screen Recording: https://www.youtube.com/watch?v=LyxvkPv7lqY
 
-#### Assignment 1: The task for the assignment 1 is to implement a simple image tracking AR application.
+#### The task for the assignment 1 is to implement a simple image tracking Augmented Reality (AR) application.
 ##### Screen Recording: https://www.youtube.com/watch?v=QKV8q-HO4KQ
 
-#### Assignment 2: The task for the assignment 2 is to develop an immersive AR application that takes the advantages of ground plane detection and the physics engine.
+#### The task for the assignment 2 is to develop an immersive Augmented Reality (AR) application that takes the advantages of ground plane detection and the physics engine.
 ##### Screen Recording: https://www.youtube.com/watch?v=4isDcFZ_ya8
 
-#### Assignment 3: The task for the assignment 3 is to build a simple interactive VR application using SteamVR and HTC Vive.
+#### The task for the assignment 3 is to build a simple interactive Virtual Reality (VR) application using SteamVR and HTC Vive.
 ##### Screen Recording: https://www.youtube.com/watch?v=uTRtzrOINEU
 
-#### Assignment 4: The task for the assignment 4 is to design and develop an interactive 3D environment for Virtual Reality using SteamVR and HTC Vive.
+#### The task for the assignment 4 is to design and develop an interactive 3D environment for Virtual Reality (VR) using SteamVR and HTC Vive.
 ##### Screen Recording: https://www.youtube.com/watch?v=L3Ov1E-7xpU
