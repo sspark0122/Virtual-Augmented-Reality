@@ -12,5 +12,4 @@
 #### - The task for the assignment 3 is to build a simple interactive Virtual Reality (VR) application using SteamVR and HTC Vive.
 ##### Screen Recording: https://www.youtube.com/watch?v=uTRtzrOINEU
 
-#### - The task for the assignment 4 is to design and develop an interactive 3D environment for Virtual Reality (VR) using SteamVR and HTC Vive.
-#####     Screen Recording: https://www.youtube.com/watch?v=L3Ov1E-7xpU
+#### - The task for the assignment 4 is to design and develop an interactive 3D environment for Virtual Reality (VR) using SteamVR and HTC Vive. Screen Recording: https://www.youtube.com/watch?v=L3Ov1E-7xpU
